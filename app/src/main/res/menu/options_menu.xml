@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/plus"
+        android:title=""
+        android:icon="@drawable/plus"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/trash"
+        android:title=""
+        android:icon="@drawable/trash"
+        app:showAsAction="always"></item>
+
+
+    <item
+        android:id="@+id/search"
+        android:title="@string/search"
+        ></item>
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"
+        ></item>
+
+
+</menu>
